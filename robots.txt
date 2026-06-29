@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.banhalminorbert.hu/sitemap.xml
+# AI discovery
+# llms: https://www.banhalminorbert.hu/llms.txt
+# full AI brief: https://www.banhalminorbert.hu/llms-full.txt
+# entity graph: https://www.banhalminorbert.hu/entity.jsonld
+
+# AI-readable exports
+# Pricing: /pricing.json
+# FAQ: /faq.json
+# Image catalogue: /image-catalog.json
+
+# AI / entity discovery
+# Entity graph: /entity-graph.json
+# Entity graph JSON-LD: /entity-graph.jsonld

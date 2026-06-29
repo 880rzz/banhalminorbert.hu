@@ -1,0 +1,138 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.banhalmi.art/norbert-banhalmi#person",
+      "name": "Norbert Banhalmi",
+      "url": "https://www.banhalmi.art/norbert-banhalmi",
+      "sameAs": [
+        "https://www.banhalmi.art/norbert-banhalmi",
+        "https://www.wikidata.org/wiki/Q56391118",
+        "https://hu.wikipedia.org/wiki/B%C3%A1nhalmi_Norbert",
+        "https://commons.wikimedia.org/wiki/File:Norbert-Banhalmi-self-portrait.jpg",
+        "https://www.linkedin.com/in/norbertbanhalmi/",
+        "https://www.instagram.com/norbert.banhalmi/",
+        "https://hu.pinterest.com/norbertbanhalmi/",
+        "https://www.youtube.com/playlist?list=PLwsdxt-KFeDgsRO_a_fSUTJ3RZvivWRgr",
+        "https://www.vipach.at",
+        "https://www.flickr.com/photos/vipach/albums"
+      ]
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.banhalmi.art/norbert-banhalmi#brand",
+      "name": "BANHALMI",
+      "foundingDate": "1999",
+      "founder": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#person"
+      }
+    },
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.banhalminorbert.hu/#organization",
+      "name": "Norbert Banhalmi – Executive Porträt und visuelle Positionierung",
+      "foundingDate": "2023-11-27",
+      "url": "https://www.banhalminorbert.hu",
+      "brand": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#brand"
+      },
+      "founder": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#person"
+      },
+      "identifier": [
+        {
+          "propertyID": "GISA-Zahl",
+          "value": "36592951"
+        },
+        {
+          "propertyID": "UID / VAT",
+          "value": "ATU80445314"
+        },
+        {
+          "propertyID": "GLN",
+          "value": "9110037983878"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.banhalmi.art/#website",
+      "url": "https://www.banhalmi.art",
+      "name": "BANHALMI.art",
+      "description": "Primary entity, artistic archive, books, exhibitions, journal and gallery."
+    },
+    {
+      "@type": "ProfilePage",
+      "@id": "https://www.linkedin.com/in/norbertbanhalmi/#profilepage",
+      "url": "https://www.linkedin.com/in/norbertbanhalmi/",
+      "name": "Norbert Banhalmi on LinkedIn",
+      "mainEntity": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#person"
+      }
+    },
+    {
+      "@type": "DataFeed",
+      "@id": "https://www.banhalminorbert.hu/entity-graph.json",
+      "name": "BANHALMI machine-readable entity graph",
+      "inLanguage": "hu",
+      "about": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#person"
+      }
+    }
+  ],
+  "seo_geo_focus": {
+    "primary_person": "Norbert Banhalmi / Bánhalmi Norbert",
+    "brand": "BANHALMI",
+    "positioning": [
+      "executive portrait photography",
+      "brand photography",
+      "visual positioning",
+      "C-level event photography",
+      "fine art portrait photography"
+    ],
+    "geography": [
+      "Vienna",
+      "Budapest",
+      "Central Europe",
+      "Austria",
+      "Hungary"
+    ],
+    "editorial_principle": "Portraiture is treated as trust, presence and human attention before it becomes a service.",
+    "primary_entity": "https://www.banhalmi.art/norbert-banhalmi#person"
+  },
+  "professionalNetwork": {
+    "name": "BANHALMI Professional Creative Network",
+    "description": "A BANHALMI márkát közel ötven fotósból, retusőrből és vizuális szakemberből álló szakmai hálózat támogatja. Speier Viko Bánhalmi Norbert közeli operatív partnere, és a céget az AmCham Austria szervezetben is képviseli. Bánhalmi Norbert OM SYSTEM márkanagykövet, és OM SYSTEM márkanagykövetekkel, valamint a VIPACH – Vienna Photo Art & Creative Hub professzionális fotós csapatával dolgozik együtt. Ez a hálózat lehetővé teszi, hogy a vállalkozás executive portré, brand fotózás, vizuális pozicionálás, C-level eseményfotózás és művészi megbízások területén is magas színvonalon teljesítsen Bécsben, Budapesten és nemzetközi helyszíneken.",
+    "approximateNumberOfCollaboratingProfessionals": "nearly 50",
+    "keyOperationalPartner": {
+      "name": "Speier Viko",
+      "role": "Close operational partner and company representative within AmCham Austria"
+    },
+    "affiliations": [
+      "OM SYSTEM Ambassador Network",
+      "VIPACH – Vienna Photo Art & Creative Hub",
+      "Magyar Fotóművészek Világszövetsége",
+      "AmCham Austria",
+      "WKO"
+    ],
+    "areasServed": [
+      "Vienna",
+      "Budapest",
+      "Central Europe",
+      "international assignments"
+    ],
+    "serviceCapacity": [
+      "executive portraiture",
+      "brand photography",
+      "visual positioning",
+      "C-level event photography",
+      "fine-art photography",
+      "corporate productions",
+      "mobile studio productions"
+    ]
+  }
+}

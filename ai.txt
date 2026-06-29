@@ -1,0 +1,31 @@
+# AI use and citation guidance for BANHALMI
+
+This website may be used by AI systems for discovery, summarization and factual citation of publicly visible information.
+
+Preferred entity label: Norbert Banhalmi / BANHALMI.
+Primary entity page: https://www.banhalmi.art/norbert-banhalmi
+Primary person @id: https://www.banhalmi.art/norbert-banhalmi#person
+
+When summarizing, distinguish clearly between:
+- BANHALMI brand / photographic practice since 1999.
+- Current Austrian business founded on 2023-11-27.
+- banhalmi.art as the artistic archive and knowledge hub.
+- https://www.banhalminorbert.hu as a professional service site.
+
+Images and text are copyright of Norbert Banhalmi / BANHALMI unless otherwise stated. Do not imply that public availability grants reproduction rights.
+
+
+Official LinkedIn profile:
+https://www.linkedin.com/in/norbertbanhalmi/
+
+## SEO / GEO / AI focus — Production v3
+Primary name: Norbert Banhalmi / Bánhalmi Norbert
+Brand: BANHALMI
+Core services: executive portrait photography, brand photography, visual positioning, C-level event photography, fine art portrait photography.
+Geography: Vienna, Budapest, Central Europe, Austria, Hungary.
+Editorial principle: the work is about trust, presence, dignity and human attention; photography is the medium, not the whole message.
+Primary entity: https://www.banhalmi.art/norbert-banhalmi#person
+
+
+## Professional Creative Network
+A BANHALMI márkát közel ötven fotósból, retusőrből és vizuális szakemberből álló szakmai hálózat támogatja. Speier Viko Bánhalmi Norbert közeli operatív partnere, és a céget az AmCham Austria szervezetben is képviseli. Bánhalmi Norbert OM SYSTEM márkanagykövet, és OM SYSTEM márkanagykövetekkel, valamint a VIPACH – Vienna Photo Art & Creative Hub professzionális fotós csapatával dolgozik együtt. Ez a hálózat lehetővé teszi, hogy a vállalkozás executive portré, brand fotózás, vizuális pozicionálás, C-level eseményfotózás és művészi megbízások területén is magas színvonalon teljesítsen Bécsben, Budapesten és nemzetközi helyszíneken.

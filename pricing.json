@@ -1,0 +1,105 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "@id": "#banhalmi-pricing-logic",
+  "name": "BANHALMI guided quote pricing logic",
+  "priceCurrency": "EUR",
+  "vatIncludedByDefault": true,
+  "defaultVatRate": "20% Austrian VAT",
+  "reverseChargeRule": "For non-Austrian EU business clients with valid company details and EU VAT number, the quote estimate may use reverse charge / 0% VAT. Final tax handling is manually confirmed.",
+  "disclaimer": "Automatic quote calculator provides orientation only. Final offer depends on purpose, location, usage, production complexity and scheduling.",
+  "calculationInputs": [
+    "category",
+    "duration",
+    "number of people",
+    "retouched image quantity",
+    "retouching workflow",
+    "number of photographers",
+    "mobile studio",
+    "stylist",
+    "hair",
+    "makeup",
+    "express delivery",
+    "company data",
+    "EU VAT number",
+    "location",
+    "preferred date/time"
+  ],
+  "priceComponentsGrossEUR": {
+    "individualQuick30": 220,
+    "individualGuided60": 420,
+    "individualGuided120": 690,
+    "groupSetupLaterRetouching": 390,
+    "groupPerPersonLaterRetouching": 45,
+    "groupInstantBaseMax6People": 690,
+    "groupInstantPerPerson": 55,
+    "brandFastOneHour": 499,
+    "brandTwoHours": 790,
+    "brandThreeHours": 1090,
+    "brandFourHours": 1390,
+    "fineArtBase": 690,
+    "retouchedImagePortrait": 35,
+    "retouchedImageGroup": 29,
+    "retouchedImageFineArt": 45,
+    "stylist": 220,
+    "hair": 220,
+    "makeup": 220,
+    "expressDelivery": 120,
+    "mobileStudio": 240,
+    "artDirection": 260,
+    "additionalPhotographer": 390
+  },
+  "itemListElement": [
+    {
+      "@type": "Offer",
+      "name": "Individual portrait — quick 30 minutes",
+      "description": "For confident clients who know what they need; short focused portrait session.",
+      "price": 220,
+      "priceCurrency": "EUR"
+    },
+    {
+      "@type": "Offer",
+      "name": "Individual guided portrait — 60 or 120 minutes",
+      "description": "For clients who want guidance, time and a calmer selection process.",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "minPrice": 420,
+        "maxPrice": 690,
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Group portrait photography",
+      "description": "Company portraits for 6–20 people per hour; instant retouching up to 6 people or later retouching with original files delivered immediately and final retouched images within 48 hours.",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "priceCurrency": "EUR",
+        "description": "Base fee + per-person fee + retouched image count; additional photographers and mobile studio available."
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Brand and visual positioning",
+      "description": "Brand photography and visual positioning from a fast one-location session to multi-hour, multi-location productions.",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "minPrice": 499,
+        "maxPrice": 1390,
+        "priceCurrency": "EUR"
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Fine art photography",
+      "description": "Artistic portraits, special visual concepts, private fine art, lingerie and nude photography handled as respectful artistic commissions.",
+      "price": 690,
+      "priceCurrency": "EUR"
+    }
+  ],
+  "professionalNetwork": {
+    "photographerNetwork": "Nearly 50 photographers, retouchers and visual specialists can be coordinated for selected projects.",
+    "coordination": "Project coordination depends on project requirements: Norbert Banhalmi, a dedicated BANHALMI team coordinator, or for selected AmCham-related international business projects, Speier Viko.",
+    "amChamBenefit": "AmCham members can receive 50% more professionally retouched images than selected, at no additional cost."
+  }
+}

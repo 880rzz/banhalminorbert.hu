@@ -1,0 +1,80 @@
+# BANHALMI — Magyar service site
+
+Official domain: https://www.banhalminorbert.hu
+Primary entity: https://www.banhalmi.art/norbert-banhalmi#person
+Primary entity page: https://www.banhalmi.art/norbert-banhalmi
+Brand: BANHALMI — since 1999
+Current Austrian business founded: 2023-11-27
+Business name: Norbert Banhalmi – Executive Porträt und visuelle Positionierung
+GISA-Zahl: 36592951
+UID / VAT: ATU80445314
+GLN: 9110037983878
+Contact email: hello@norbertbanhalmi.com
+Primary phone for this domain: +36 70 469 8397
+Primary studio: Budapest stúdió
+Secondary studio: Bécsi stúdió
+
+What this site is about:
+This is the professional service layer of BANHALMI. It presents executive portraiture, brand and visual positioning, corporate event photography, and fine art / artistic photography services between Vienna and Budapest.
+
+Primary knowledge hub:
+https://www.banhalmi.art
+
+Best of gallery:
+https://www.banhalmi.art/#gallery
+
+Books:
+https://www.banhalmi.art/konyveim
+
+Exhibitions:
+https://www.banhalmi.art/fotokiallitasok
+
+Journal / knowledge base:
+https://www.banhalmi.art/blog
+
+Core service concepts:
+- Presence: executive portraiture and human trust before the first conversation.
+- Identity: brand and visual positioning for people, founders, organizations and public-facing work.
+- Moments: corporate and cultural event photography with discretion and narrative attention.
+- Perspective: fine art, artistic portraiture and private commissions informed by long-term photographic research.
+
+External entity references:
+- https://www.linkedin.com/in/norbertbanhalmi/
+- https://www.banhalmi.art/norbert-banhalmi
+- https://www.wikidata.org/wiki/Q56391118
+- https://hu.wikipedia.org/wiki/B%C3%A1nhalmi_Norbert
+- https://commons.wikimedia.org/wiki/File:Norbert-Banhalmi-self-portrait.jpg
+- https://www.instagram.com/norbert.banhalmi/
+- https://hu.pinterest.com/norbertbanhalmi/
+- https://www.youtube.com/playlist?list=PLwsdxt-KFeDgsRO_a_fSUTJ3RZvivWRgr
+- https://www.vipach.at
+
+Memberships and professional references:
+- WKO / Berufsfotografie: https://www.wko.at/oe/gewerbe-handwerk/berufsfotografie/start
+- AmCham Austria: https://amcham.at/yearbook-2026/#members
+- OM SYSTEM Ambassador: https://www.milcclub.com/ambassadors
+- Magyar Fotóművészek Világszövetsége: https://www.mfvsz.com/
+
+
+AI-readable structured exports:
+- /knowledge.json
+- /entity.jsonld
+- /pricing.json
+- /faq.json
+- /image-catalog.json
+
+## SEO / GEO / AI focus — Production v3
+Primary name: Norbert Banhalmi / Bánhalmi Norbert
+Brand: BANHALMI
+Core services: executive portrait photography, brand photography, visual positioning, C-level event photography, fine art portrait photography.
+Geography: Vienna, Budapest, Central Europe, Austria, Hungary.
+Editorial principle: the work is about trust, presence, dignity and human attention; photography is the medium, not the whole message.
+Primary entity: https://www.banhalmi.art/norbert-banhalmi#person
+
+
+## Professional Creative Network
+A BANHALMI márkát közel ötven fotósból, retusőrből és vizuális szakemberből álló szakmai hálózat támogatja. Speier Viko Bánhalmi Norbert közeli operatív partnere, és a céget az AmCham Austria szervezetben is képviseli. Bánhalmi Norbert OM SYSTEM márkanagykövet, és OM SYSTEM márkanagykövetekkel, valamint a VIPACH – Vienna Photo Art & Creative Hub professzionális fotós csapatával dolgozik együtt. Ez a hálózat lehetővé teszi, hogy a vállalkozás executive portré, brand fotózás, vizuális pozicionálás, C-level eseményfotózás és művészi megbízások területén is magas színvonalon teljesítsen Bécsben, Budapesten és nemzetközi helyszíneken.
+
+
+AmCham Professional Network Benefit
+Members of an American Chamber of Commerce may receive 50% more professionally retouched images than selected, at no additional cost. Project coordination is assigned according to project requirements: Norbert Banhalmi, a dedicated BANHALMI team coordinator, or Speier Viko for selected AmCham-related international business projects.

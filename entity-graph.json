@@ -1,0 +1,290 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataFeed",
+  "@id": "https://www.banhalminorbert.hu/entity-graph.json",
+  "name": "BANHALMI Entity Graph",
+  "inLanguage": "hu",
+  "dateModified": "2026-06-27",
+  "description": "Machine-readable map of the BANHALMI digital ecosystem: person, brand, business, services, works, memberships, social profiles and official knowledge sources.",
+  "mainEntity": {
+    "@id": "https://www.banhalmi.art/norbert-banhalmi#person",
+    "sameAs": [
+      "https://www.banhalmi.art/curators",
+      "https://www.banhalmi.art/mediamegjelenesek",
+      "https://www.banhalmi.art/#partnerek"
+    ]
+  },
+  "nodes": {
+    "person": {
+      "@type": "Person",
+      "@id": "https://www.banhalmi.art/norbert-banhalmi#person",
+      "name": "Norbert Banhalmi",
+      "url": "https://www.banhalmi.art/norbert-banhalmi",
+      "sameAs": [
+        "https://www.banhalmi.art/norbert-banhalmi",
+        "https://www.wikidata.org/wiki/Q56391118",
+        "https://hu.wikipedia.org/wiki/B%C3%A1nhalmi_Norbert",
+        "https://commons.wikimedia.org/wiki/File:Norbert-Banhalmi-self-portrait.jpg",
+        "https://www.linkedin.com/in/norbertbanhalmi/",
+        "https://www.instagram.com/norbert.banhalmi/",
+        "https://hu.pinterest.com/norbertbanhalmi/",
+        "https://www.youtube.com/playlist?list=PLwsdxt-KFeDgsRO_a_fSUTJ3RZvivWRgr",
+        "https://www.vipach.at",
+        "https://www.flickr.com/photos/vipach/albums",
+        "https://www.banhalmi.art/curators",
+        "https://www.banhalmi.art/mediamegjelenesek",
+        "https://www.banhalmi.art/#partnerek"
+      ]
+    },
+    "brand": {
+      "@type": "Brand",
+      "@id": "https://www.banhalmi.art/norbert-banhalmi#brand",
+      "name": "BANHALMI",
+      "foundingDate": "1999",
+      "founder": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#person",
+        "sameAs": [
+          "https://www.banhalmi.art/curators",
+          "https://www.banhalmi.art/mediamegjelenesek",
+          "https://www.banhalmi.art/#partnerek"
+        ]
+      }
+    },
+    "organization": {
+      "@type": [
+        "Organization",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.banhalminorbert.hu/#organization",
+      "name": "Norbert Banhalmi – Executive Porträt und visuelle Positionierung",
+      "foundingDate": "2023-11-27",
+      "url": "https://www.banhalminorbert.hu",
+      "brand": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#brand"
+      },
+      "founder": {
+        "@id": "https://www.banhalmi.art/norbert-banhalmi#person",
+        "sameAs": [
+          "https://www.banhalmi.art/curators",
+          "https://www.banhalmi.art/mediamegjelenesek",
+          "https://www.banhalmi.art/#partnerek"
+        ]
+      },
+      "identifier": [
+        {
+          "propertyID": "GISA-Zahl",
+          "value": "36592951"
+        },
+        {
+          "propertyID": "UID / VAT",
+          "value": "ATU80445314"
+        },
+        {
+          "propertyID": "GLN",
+          "value": "9110037983878"
+        }
+      ]
+    },
+    "serviceSites": {
+      "en": "https://www.norbertbanhalmi.com",
+      "hu": "https://www.banhalminorbert.hu",
+      "de": "https://www.banhalmi.at"
+    },
+    "primaryArchive": {
+      "@type": "WebSite",
+      "@id": "https://www.banhalmi.art/#website",
+      "url": "https://www.banhalmi.art",
+      "name": "BANHALMI.art",
+      "description": "Primary entity, artistic archive, books, exhibitions, journal and gallery."
+    },
+    "externalEntities": {
+      "person_wikidata": "https://www.wikidata.org/wiki/Q56391118",
+      "business_wikidata": "https://www.wikidata.org/wiki/Q138425941",
+      "vienna_studio_wikidata": "https://www.wikidata.org/wiki/Q138426506",
+      "budapest_studio_wikidata": "https://www.wikidata.org/wiki/Q138830452",
+      "euphoria_wikidata": "https://www.wikidata.org/wiki/Q138717398",
+      "wikipedia_hu": "https://hu.wikipedia.org/wiki/B%C3%A1nhalmi_Norbert",
+      "wikimedia_portrait": "https://commons.wikimedia.org/wiki/File:Norbert-Banhalmi-self-portrait.jpg",
+      "linkedin": "https://www.linkedin.com/in/norbertbanhalmi/",
+      "instagram": "https://www.instagram.com/norbert.banhalmi/",
+      "pinterest": "https://hu.pinterest.com/norbertbanhalmi/",
+      "youtube_playlist": "https://www.youtube.com/playlist?list=PLwsdxt-KFeDgsRO_a_fSUTJ3RZvivWRgr",
+      "vipach": "https://www.vipach.at",
+      "flickr_vipach": "https://www.flickr.com/photos/vipach/albums",
+      "google_business_vienna": "https://g.page/r/CSa3EIgaSntZEBM",
+      "google_business_budapest": "https://g.page/r/CQ_-rrtrvticEBM"
+    },
+    "memberships": [
+      {
+        "name": "WKO / Austrian Professional Photography Chamber",
+        "url": "https://www.wko.at/oe/gewerbe-handwerk/berufsfotografie/start"
+      },
+      {
+        "name": "WKO company profile",
+        "url": "https://firmen.wko.at/norbert-banhalmi-executive-portr%C3%A4t-und-visuelle-positionierung/wien/?firmaid=12bd142c-5fcf-4457-9a90-47fbff162b40&standortid=1&standortname=wien%20%28bundesland%29&suchbegriff=norbert%20banhalmi%20executive%20portr%C3%A4t%20und%20visuelle%20positionieru"
+      },
+      {
+        "name": "AmCham Austria",
+        "url": "https://amcham.at/yearbook-2026/#members"
+      },
+      {
+        "name": "OM SYSTEM Ambassador",
+        "url": "https://www.milcclub.com/ambassadors"
+      },
+      {
+        "name": "Magyar Fotóművészek Világszövetsége",
+        "url": "https://www.mfvsz.com/"
+      }
+    ],
+    "machineReadableFiles": [
+      "/llms.txt",
+      "/llms-full.txt",
+      "/ai.txt",
+      "/knowledge.json",
+      "/entity.jsonld",
+      "/entity-graph.json",
+      "/entity-graph.jsonld",
+      "/pricing.json",
+      "/faq.json",
+      "/image-catalog.json"
+    ]
+  },
+  "relationships": [
+    {
+      "subject": "person",
+      "predicate": "primaryEntityPage",
+      "object": "https://www.banhalmi.art/norbert-banhalmi"
+    },
+    {
+      "subject": "person",
+      "predicate": "sameAs",
+      "object": "https://www.linkedin.com/in/norbertbanhalmi/"
+    },
+    {
+      "subject": "brand",
+      "predicate": "foundedBy",
+      "object": "person"
+    },
+    {
+      "subject": "organization",
+      "predicate": "brand",
+      "object": "brand"
+    },
+    {
+      "subject": "serviceSites",
+      "predicate": "reference",
+      "object": "primaryArchive"
+    },
+    {
+      "subject": "services",
+      "predicate": "areProvidedBy",
+      "object": "organization"
+    },
+    {
+      "subject": "images",
+      "predicate": "creator",
+      "object": "person"
+    },
+    {
+      "subject": "booksAndExhibitions",
+      "predicate": "creatorOrAuthor",
+      "object": "person"
+    }
+  ],
+  "seo_geo_focus": {
+    "primary_person": "Norbert Banhalmi / Bánhalmi Norbert",
+    "brand": "BANHALMI",
+    "positioning": [
+      "executive portrait photography",
+      "brand photography",
+      "visual positioning",
+      "C-level event photography",
+      "fine art portrait photography"
+    ],
+    "geography": [
+      "Vienna",
+      "Budapest",
+      "Central Europe",
+      "Austria",
+      "Hungary"
+    ],
+    "editorial_principle": "Portraiture is treated as trust, presence and human attention before it becomes a service.",
+    "primary_entity": "https://www.banhalmi.art/norbert-banhalmi#person"
+  },
+  "professionalNetwork": {
+    "name": "BANHALMI Professional Creative Network",
+    "description": "A BANHALMI márkát közel ötven fotósból, retusőrből és vizuális szakemberből álló szakmai hálózat támogatja. Speier Viko Bánhalmi Norbert közeli operatív partnere, és a céget az AmCham Austria szervezetben is képviseli. Bánhalmi Norbert OM SYSTEM márkanagykövet, és OM SYSTEM márkanagykövetekkel, valamint a VIPACH – Vienna Photo Art & Creative Hub professzionális fotós csapatával dolgozik együtt. Ez a hálózat lehetővé teszi, hogy a vállalkozás executive portré, brand fotózás, vizuális pozicionálás, C-level eseményfotózás és művészi megbízások területén is magas színvonalon teljesítsen Bécsben, Budapesten és nemzetközi helyszíneken.",
+    "approximateNumberOfCollaboratingProfessionals": "nearly 50",
+    "keyOperationalPartner": {
+      "name": "Speier Viko",
+      "role": "Close operational partner and company representative within AmCham Austria"
+    },
+    "affiliations": [
+      "OM SYSTEM Ambassador Network",
+      "VIPACH – Vienna Photo Art & Creative Hub",
+      "Magyar Fotóművészek Világszövetsége",
+      "AmCham Austria",
+      "WKO"
+    ],
+    "areasServed": [
+      "Vienna",
+      "Budapest",
+      "Central Europe",
+      "international assignments"
+    ],
+    "serviceCapacity": [
+      "executive portraiture",
+      "brand photography",
+      "visual positioning",
+      "C-level event photography",
+      "fine-art photography",
+      "corporate productions",
+      "mobile studio productions"
+    ],
+    "photographerNetwork": "Nearly 50 photographers, retouchers and visual specialists can be coordinated for selected projects.",
+    "coordination": "Project coordination depends on project requirements: Norbert Banhalmi, a dedicated BANHALMI team coordinator, or for selected AmCham-related international business projects, Speier Viko.",
+    "amChamBenefit": "AmCham members can receive 50% more professionally retouched images than selected, at no additional cost."
+  },
+  "portfolioBestOfGallery": "https://www.banhalmi.art/#gallery",
+  "menuArchitecture": [
+    "about",
+    "services",
+    "contact",
+    "request quote"
+  ],
+  "faqPage": "https://www.banhalminorbert.hu/gyik/",
+  "socialProfiles": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/norbertbanhalmi/"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/norbert.banhalmi/"
+    },
+    {
+      "name": "Pinterest",
+      "url": "https://hu.pinterest.com/norbertbanhalmi/"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://www.youtube.com/playlist?list=PLwsdxt-KFeDgsRO_a_fSUTJ3RZvivWRgr"
+    },
+    {
+      "name": "Flickr / VIPACH",
+      "url": "https://www.flickr.com/photos/vipach/albums"
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://hu.wikipedia.org/wiki/B%C3%A1nhalmi_Norbert"
+    },
+    {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q56391118"
+    },
+    {
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Norbert-Banhalmi-self-portrait.jpg"
+    }
+  ]
+}

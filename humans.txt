@@ -1,0 +1,28 @@
+/* TEAM */
+Brand: BANHALMI
+Person: Norbert Banhalmi
+Website: https://www.banhalminorbert.hu
+Primary entity: https://www.banhalmi.art/norbert-banhalmi
+Contact: hello@norbertbanhalmi.com
+
+/* SITE */
+Language: Magyar
+Primary studio: Budapest stúdió
+Secondary studio: Bécsi stúdió
+Built as a static GitHub Pages-ready professional service site connected to the banhalmi.art knowledge hub.
+
+
+Official LinkedIn profile:
+https://www.linkedin.com/in/norbertbanhalmi/
+
+## SEO / GEO / AI focus — Production v3
+Primary name: Norbert Banhalmi / Bánhalmi Norbert
+Brand: BANHALMI
+Core services: executive portrait photography, brand photography, visual positioning, C-level event photography, fine art portrait photography.
+Geography: Vienna, Budapest, Central Europe, Austria, Hungary.
+Editorial principle: the work is about trust, presence, dignity and human attention; photography is the medium, not the whole message.
+Primary entity: https://www.banhalmi.art/norbert-banhalmi#person
+
+
+## Professional Creative Network
+A BANHALMI márkát közel ötven fotósból, retusőrből és vizuális szakemberből álló szakmai hálózat támogatja. Speier Viko Bánhalmi Norbert közeli operatív partnere, és a céget az AmCham Austria szervezetben is képviseli. Bánhalmi Norbert OM SYSTEM márkanagykövet, és OM SYSTEM márkanagykövetekkel, valamint a VIPACH – Vienna Photo Art & Creative Hub professzionális fotós csapatával dolgozik együtt. Ez a hálózat lehetővé teszi, hogy a vállalkozás executive portré, brand fotózás, vizuális pozicionálás, C-level eseményfotózás és művészi megbízások területén is magas színvonalon teljesítsen Bécsben, Budapesten és nemzetközi helyszíneken.
